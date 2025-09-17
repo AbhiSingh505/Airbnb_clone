@@ -370,9 +370,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **GitHub**: https://github.com/AbhiSingh505
+- **LinkedIn**: https://www.linkedin.com/in/abhisheksingh505/
+- **Email**: chouhanabhishek421@gmail.com
 
 ## 📚 Additional Resources
 
