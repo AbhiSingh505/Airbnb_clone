@@ -19,7 +19,6 @@ struct ExploreView: View {
         ZStack(alignment: .top) {
             Theme.background.ignoresSafeArea()
             VStack(spacing: 22) {
-                AppTitleHeader(title: "StaySphere", subtitle: "Stays & Experiences")
                 
                 // Search Bar
                 Button {
