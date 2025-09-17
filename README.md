@@ -249,6 +249,20 @@ The app includes the following main screens:
 
 *Note: Screenshots will be added once the app is running. See `screenshots/README.md` for instructions on taking screenshots.*
 
+### Capture screenshots quickly (optional)
+
+Use the helper script to capture iOS Simulator screenshots into the `screenshots/` folder with the right filenames used above:
+
+```bash
+# From the project root
+./capture_screenshots.sh explore         # -> screenshots/01_Explore_View.png
+./capture_screenshots.sh search          # -> screenshots/02_Search_View.png
+./capture_screenshots.sh property_detail # -> screenshots/03_Property_Detail.png
+./capture_screenshots.sh map             # -> screenshots/04_Map_View.png
+./capture_screenshots.sh tabbar          # -> screenshots/09_Tab_Bar_Animation.png
+./capture_screenshots.sh voice           # -> screenshots/10_Voice_Search.png
+```
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -259,7 +273,7 @@ The app includes the following main screens:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/airbnb-clone-swiftui.git
+   git clone https://github.com/AbhiSingh505/Airbnb_clone.git
    ```
 2. Open `syGroupTask.xcodeproj` in Xcode
 3. Build and run on iOS Simulator or device
